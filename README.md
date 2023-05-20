@@ -4,11 +4,11 @@
 ![image](https://github.com/ngocvien21/C--Sales-management-software/assets/99173557/ae8d26c4-f842-4272-a05d-6c9f6677118f)
 - Tạo cơ sở dữ liệu với các hàm trigger tự động tính thành tiền và thực hiện các chức năng tìm kiếm, thêm, sửa, xóa
 - Tạo các giao diện theo thứ tự lần lượt là:
-      - Login
+- Login
  ![image](https://github.com/ngocvien21/C--Sales-management-software/assets/99173557/0a3246b0-08d7-4e70-aa56-0143fd10a2f9)
-      - Menu
+- Menu
       ![image](https://github.com/ngocvien21/C--Sales-management-software/assets/99173557/70cddc9d-7959-42cc-abad-7f9370bc690b)
-      - Account
+- Account
       ![image](https://github.com/ngocvien21/C--Sales-management-software/assets/99173557/b871e1e6-5f2d-4923-8433-ecf7da8ff570)
       - Customer
       ![image](https://github.com/ngocvien21/C--Sales-management-software/assets/99173557/3b0bc9ca-00bf-4c47-81ca-f49958d3855c)
