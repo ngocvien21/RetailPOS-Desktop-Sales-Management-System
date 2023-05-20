@@ -198,13 +198,6 @@ VALUES  ('ADMIN','Admin', '21052001'),
         ('NHANVIEN2','Vo Chi Tam' ,'22052001')
 GO
 
-
-
-
-
-
-
-
 --NHANVIEN
 
 --Thêm
@@ -249,14 +242,6 @@ BEGIN
 END
 GO
 
-
-
-
-
-
-
-
-
 --HANGHOA
 
 --Tìm
@@ -283,12 +268,6 @@ SET TenHH = @TenHH, XuatXu = @XuatXu, SoLuongHHTon = @SoLuongHHTon,DonGiaNhap = 
 WHERE MaHH = @MaHH
 END
 GO
-
-
-
-
-
-
 
 --KHACHHANG
 
@@ -318,12 +297,6 @@ BEGIN
 	WHERE MaKH = @MaKH
 End
 GO
-
-
-
-
-
-
 
 
 --CHITIET_HOADONBANHANG
@@ -435,11 +408,6 @@ END
 GO
 
 
-
-
-
-
-
 --HOADONBANHANG
 
 --Tìm
@@ -468,13 +436,6 @@ BEGIN
 	DELETE FROM dbo.HOADONBANHANG Where MaHDBH = @MaHDBH
 END
 GO
-
-
-
-
-
-
-
 
 
 --TAIKHOAN
